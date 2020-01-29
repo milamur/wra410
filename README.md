@@ -18,7 +18,7 @@ Revise the following section in your README.md file with a short description of 
 
 4. Use a table to format the Grading Scale on the Assignments page.
 
-5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.  
+5. Reformat the Student Groups. Use a different color for links, add a title for each group, separate each student. Use multiple columns for the divs.  
 
 6. Add navgation to the Schedule webpage.
 
@@ -27,7 +27,7 @@ Revise the following section in your README.md file with a short description of 
 
 ## Grading Criteria
 
-* 100-90 points: You accomplish all of the required changes and you include some new html/css commands and/or your design does an especially good job of meeting the needs of your audience (students in this course). 
+* 100-90 points: You accomplish all of the required changes and you include some new html/css commands and/or your design does an especially good job of meeting the needs of your audience (students in this course).
 
 * 89-80 points: You accomplish all of the required changes.
 
