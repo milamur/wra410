@@ -10,7 +10,8 @@ Revise the following section in your README.md file with a short description of 
 
 ## Required Changes to WRA 410
 
-1. Make changes to the background color of a page and a div.
+1. Make changes to the background color of a page and a div. 
+I changed the background of the pages from white to a light brown. 
 
 2. Use a new font.
 
