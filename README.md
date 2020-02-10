@@ -10,20 +10,19 @@ Revise the following section in your README.md file with a short description of 
 
 ## Required Changes to WRA 410
 
-1. Make changes to the background color of a page and a div. 
-I changed the background of the pages from white to a light brown. 
+1. In the style.css file, I changed the background color of the pages from white to beige (#E7DABD) by editing the code in the #container div.  
 
-2. Use a new font.
+2. In the style.css file, I changed the font to 'Palatino Linotype', 'Book Antiqua' as well as the sans-serif to a serif by editing the font-family code in the body. 
 
-3. Include two images.
+3. I included images on two of the html files, including contact.html and assignments.html. On contacts.html, I included an image at the bottom of the page by saving it in my wra410 directory, using "<img src = "xxx">" and coding the width and the height in my text editor. I did the same for the image I added to assignments.html. 
 
-4. Use a table to format the Grading Scale on the Assignments page.
+4. I added a table in assignments.html to format the grading scale at the bottom by coding <table></table> and organizing it with <tr></tr> and <td></td>. I chose a width as well. 
 
-5. Reformat the Student Groups. Use a different color for links, add a title for each group, separate each student. Use multiple columns for the divs.  
+5. I reformatted the groups page by changing the color of the links on the groups.html file to MSU green and separated each student name with commas so that it looks cleaner.  
 
-6. Add navgation to the Schedule webpage.
+6. I added the navigation bar to schedule.html by mirroring it with the navigation bar that's consistent throughout the rest of the site. I included it at the beginning of the code under the title. 
 
-7. Revise the rows and columns on the Schedule webpage so the information is clearer or prettier.
+7. I revised the rows and columns on the schedule webpage by realigning and reformatting some of the content, specifically when the topic as well as the links included in the middle column were redundant. For example, in the CRUD section, "CRUD" was repeated twice since both the topic and the link included that word. So I removed the topic and kept the link, making this page cleaner and more aesthetically pleasing. I also separated the week with the dates in the lefthand column for organizational purposes. 
 
 
 ## Grading Criteria
